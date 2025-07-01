@@ -39,17 +39,14 @@ Sistem pemantauan suhu berbasis **ESP32 + DHT11**, dirancang untuk penggunaan di
 
 ## 📷 Gambar Perangkat
 
-> Ganti gambar di bawah ini dengan foto asli alatmu.
-
-![Foto Alat](docs/device-photo.jpg)
+![Foto Alat](Screenshots/Zephlyr.png)
 
 ---
 
 ## 📊 Contoh Output Google Sheets
 
-> Ganti dengan screenshot tampilan sheets.
 
-![Tampilan Sheets](docs/sheets-sample.png)
+![Tampilan Sheets](Screenshots/GoogleSheets.png)
 
 ---
 
