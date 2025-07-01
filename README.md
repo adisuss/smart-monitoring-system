@@ -100,7 +100,7 @@ Sistem pemantauan suhu dan kelembapan berbasis **IoT**, dirancang untuk pengguna
 Tertarik dengan sistem monitoring suhu ini?  
 Punya ide pengembangan, ingin bekerja sama, atau sekadar ingin tahu lebih banyak?
 
-> [![Instagram](https://img.shields.io/badge/Instagram-@zeph.ylr-purple?logo=instagram&logoColor=white)](https://instagram.com/zeph.ylr)
+> [![Instagram](https://img.shields.io/badge/Instagram-@zeph.yrl-purple?logo=instagram&logoColor=white)](https://instagram.com/zeph.yrl)
 
 
 Saya terbuka untuk kolaborasi, pengembangan produk, atau implementasi di berbagai kebutuhan industri dan komersial.
