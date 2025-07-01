@@ -166,7 +166,7 @@ void sendDataToGoogleSheet(JsonArray &readings) {
 
     Serial.println("✅ Final JSON to send: " + jsonString);
 
-    const char* url = "https://script.google.com/macros/s/AKfycbyl5FKLxT9J2cgdIBH_mdu-S7g_gAiOZ0OLJ3HkX93NaRBFCySrh_Vh9jRzf4V5AOSj_w/exec";
+    const char* url = "https://script.google.com/macros/s/";//your API appscript
 
     if (WiFi.status() == WL_CONNECTED) {
         HTTPClient http;
