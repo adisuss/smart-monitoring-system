@@ -39,6 +39,7 @@ Sistem pemantauan suhu dan kelembapan berbasis **IoT**, dirancang untuk pengguna
 ## 📷 Gambar Perangkat
 
 ![Foto Alat](Screenshots/Zephlyr.png)
+![Foto Alat](Screenshots/figure.jpg)
 
 ---
 
