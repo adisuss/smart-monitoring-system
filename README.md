@@ -29,7 +29,7 @@ Sistem pemantauan suhu dan kelembapan berbasis **IoT**, dirancang untuk pengguna
 
 ## 🎯 Cocok Untuk
 
-- 🏭 **Gudang penyimpanan** — mencegah kerusakan akibat suhu ekstrem
+- 🏭 **Gudang penyimpanan** — memastikan suhu ruangan tetap terkendali untuk menjaga kualitas barang
 - ⚡ **Ruang panel listrik** — deteksi dini overheating peralatan
 - 🖥️ **Ruang server** — menjaga suhu stabil demi operasional sistem
 - 📦 Lokasi sensitif lainnya yang butuh pemantauan suhu
